@@ -30,7 +30,7 @@
 
 ### 难度
 
-简单~中等
+简单 ~ 中等 ~ 高等
 
 ### 特征
 - 系统调用接口支持 POSIX 子集，具体可参考[P11 of xv6 book](https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf)
@@ -83,3 +83,10 @@
 - D1 哪吒开发板
 - SIFIVE U540, U740 开发板
 - 支持在 K210 硬件上运行
+
+### 第九题：添加更多系统调用并移植更多软件
+
+- 支持 libc，例如 musl libc 或者 glibc
+- 移植编译器，例如较简单的 c4 或者更加复杂的 gcc
+- 移植数据库软件，例如 sqlite、redis
+- 移植 Web 服务器，例如 Nginx

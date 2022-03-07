@@ -9,6 +9,7 @@
 
 - [https://github.com/Jaic1/xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust)
 - [https://github.com/Ko-oK-OS/xv6-rust](https://github.com/Ko-oK-OS/xv6-rust)
+- [https://github.com/kaist-cp/rv6](https://github.com/kaist-cp/rv6)
 
 ### 所属赛道
 2022全国大学生操作系统比赛的“OS功能挑战”赛道
